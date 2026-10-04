@@ -1,4 +1,4 @@
-# Python-basics-Siva-s-Tech
+# Python-basics-Siva's-Tech
 
 ## Siva's Tech 🐍
 
